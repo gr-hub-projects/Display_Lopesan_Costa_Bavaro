@@ -1,16 +1,7 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [
-      {
-        "id": "150680043",
-        "Flight": "WS2903",
-        "PickupDate": "2026-02-11",
-        "PickupTime": "11:45",
-        "HotelName": "Adults Only Club at Lopesan Costa Bávaro - All Inclusive",
-        "HotelNumber": 13556
-      }
-    ],
+    "content": [],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
